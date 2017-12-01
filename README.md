@@ -1,7 +1,7 @@
 # WorkshopExample
 
 [![Coverage Status](https://codecov.io/gh/Blake-Petersen/WorkshopExample/branch/master/graph/badge.svg)](https://codecov.io/gh/Blake-Petersen/WorkshopExample)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ea7ca374a79c4321952715a228a454f0)](https://www.codacy.com/app/Blake-Petersen/WorkshopExample?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Blake-Petersen/WorkshopExample&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5cfee9f2f82a4a5fb25ad1c982d91fe8)](https://www.codacy.com/app/Blake-Petersen/WorkshopExample?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Blake-Petersen/WorkshopExample&amp;utm_campaign=Badge_Grade)
 [![Build Status](https://img.shields.io/travis/Blake-Petersen/WorkshopExample.svg)](https://travis-ci.org/Blake-Petersen/WorkshopExample)
 [![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/Blake-Petersen/abc/WorkshopExample/master/LICENSE)
 
